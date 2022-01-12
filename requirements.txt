@@ -12,6 +12,5 @@ jupyterlab-geojson>=3,<4
 jupyterlab-tour
 jupyterlab_miami_nights
 jupyterlite==0.1.0a19
-jupyterlite-p5-kernel==0.1.0a12
 plotly>=5,<6
 theme-darcula
