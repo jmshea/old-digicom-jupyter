@@ -28,13 +28,6 @@
       },
       {
         "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
-        "name": "@jupyterlite/p5-kernel-extension",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
         "liteExtension": false,
         "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
