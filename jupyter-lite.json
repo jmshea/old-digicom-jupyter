@@ -4,6 +4,7 @@
     "appUrl": "./lab",
     "appVersion": "0.1.0-alpha.19",
     "baseUrl": "./",
+    "collaborative": true,
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
