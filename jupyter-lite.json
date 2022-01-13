@@ -89,8 +89,7 @@
     "fullStaticUrl": "./lab/build",
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
     "settingsUrl": "./lab/build/schemas",
-    "themesUrl": "./lab/build/themes",
-    "collaborative": true
+    "themesUrl": "./lab/build/themes"
   },
   "jupyter-lite-schema-version": 0
 }

@@ -1,4 +1,12 @@
+*If you loaded this file from JupyterLite, then close this file and go load the file
+`representation-demo.ipynb`. This link should take you directly there (without closing 
+README.md):*
+
+https://jmshea.github.io/digicom-jupyter/lab/index.html?path=representation-demo.ipynb
+
 # Digital Communications JupyterLite Site
+
+If you are seeing this on the GitHub page, then read on.
 
 If you do not have Jupyter, Python, etc., installed on your computer, you can use these 
 Jupyter notebooks directly in your browser. Load JupyterLite by clicking on the following link:
