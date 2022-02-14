@@ -41,7 +41,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.12ad22690794c9ade54e.js",
+        "load": "static/remoteEntry.af71ba374fc8128e6506.js",
         "name": "bqplot"
       },
       {
@@ -72,7 +72,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.320cd506ee27637bd123.js",
+        "load": "static/remoteEntry.f372bf1de02fb50ae6e0.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
